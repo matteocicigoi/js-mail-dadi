@@ -5,7 +5,8 @@
 - array contenete le email accettate
     - esempio1@mail.it
     - esemprio2@mail.it
-- salva l'elemento input email nella variabile email
+- salva l'input "email" nella variabile "email"
+- salva il bottone "button" nella variabile "button"
 - quando si preme il bottone "controlla"
     - variabile "output" con il valore: "l'email non è presente"
     - ciclo for da 0 alla lunghezza del array
