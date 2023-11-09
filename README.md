@@ -20,6 +20,7 @@
 
 - variabile "utente" contenente un numero da 1 a 6 (generato)
 - variabile "computer" contenente un numero da 1 a 6 (generato)
+- recupera gli elementi dal DOM e li salva nelle variabili
 - variabile "output"
 - se "utente" > "computer"
     - variabile output con il valore: "ha vinto l'utente"

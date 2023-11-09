@@ -1,0 +1,40 @@
+/* reset */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    background-color: green;
+}
+h1{
+    color: white;
+    font-size: 40px;
+    margin: 30px 0;
+}
+.container{
+    padding: 20px 20px;
+    width: 500px;
+    margin: 0 auto;
+
+}
+.container .box{
+    border: 1px solid black;
+    width: 150px;
+    height: 150px;
+    background-color: white;
+    line-height: 150px;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 900;
+    margin: 0 auto;
+}
+.container .result{
+    margin: 60px 0;
+}
+.container .result h2{
+    font-size: 40px;
+    color: gold;
+}
