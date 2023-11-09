@@ -5,13 +5,14 @@
 - array contenete le email accettate
     - esempio1@mail.it
     - esemprio2@mail.it
-- salva l'input "email" nella variabile "email"
-- salva il bottone "button" nella variabile "button"
+- recupera gli elementi dal DOM e li salva nelle variabili
 - quando si preme il bottone "controlla"
     - variabile "output" con il valore: "l'email non è presente"
+    - variabile "classCss" con il valore: "bg-red"
     - ciclo for da 0 alla lunghezza del array
         - se l'email inserita dal utente è uguale quella del array
             - variabile output con il valore: "l'email è presente"
+            - variabile "classCss" con il valore:"bg-green"
             - termina il ciclo
     - stampa "output"
 
