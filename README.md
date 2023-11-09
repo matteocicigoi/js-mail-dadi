@@ -23,7 +23,7 @@
 - se "utente" > "computer"
     - variabile output con il valore: "ha vinto l'utente"
 - se "utente" < "computer
-    - variabile output con il valore: "ha vinto l'utente"
+    - variabile output con il valore: "ha vinto il computer"
 - altrimenti
     - variabile output con il valore: "pareggio"
 - stampa "output"
